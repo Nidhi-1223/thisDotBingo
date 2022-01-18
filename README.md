@@ -1,4 +1,5 @@
-# thisDotBingo
+# WEB DEVELOPMENT
+
 <center>
 <img src="./assets/main-image.png" width="350px">
 </center>
